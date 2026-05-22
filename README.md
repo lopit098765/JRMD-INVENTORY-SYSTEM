@@ -1,4 +1,4 @@
-# Inventory Management System
+# JRMD Inventory Management System
 
 A simple PHP web system for managing an inventory.  
   
